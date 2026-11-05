@@ -8,8 +8,6 @@ Play Flappy Bird with your **hand**. An ultrasonic distance sensor (HC-SR04) con
 
 > Click the thumbnail to watch the demo on YouTube.
 
-**Live demo:** https://hakseengineer.github.io/FlappyBird/ *(optional, see GitHub Pages below)*
-
 ## Features
 
 - **Two control modes**
